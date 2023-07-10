@@ -1,0 +1,1 @@
+$(".countdown").downCount({date:"09/15/2022 23:59:00",offset:7},(function(){})),setTimeout((function(){$("#timercount_loading,#timercount_loading_mobile").addClass("hidden"),$("#timercount,#timercount_mobile").removeClass("hidden")}),1e3);
